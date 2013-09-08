@@ -13,3 +13,6 @@ This is a list of open source applications for the Windows Phone mobile platform
 |Gchat|Google Talk client|https://github.com/gchatapp/gtalkchat|
 |Ocell|Twitter client|https://github.com/gjulianm/Ocell|
 |Baconography|Reddit client|https://github.com/Synergex/Baconography|
+|TodotxtTouch|[todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) handler/client|https://github.com/hartez/TodotxtTouch.WindowsPhone|
+|Khan Academy|Unofficial Khan Academy browser|https://github.com/joelmartinez/Khan-Academy-for-Windows-Phone|
+
