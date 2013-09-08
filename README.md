@@ -11,3 +11,5 @@ This is a list of open source applications for the Windows Phone mobile platform
 |The Verge .NET|Unofficial The Verge client|https://vnet.codeplex.com/|
 |MV Buddy|Mediavida forum client|https://mvbuddy.codeplex.com/|
 |Gchat|Google Talk client|https://github.com/gchatapp/gtalkchat|
+|Ocell|Twitter client|https://github.com/gjulianm/Ocell|
+|Baconography|Reddit client|https://github.com/Synergex/Baconography|
