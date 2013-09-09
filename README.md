@@ -15,4 +15,5 @@ This is a list of open source applications for the Windows Phone mobile platform
 |Baconography|Reddit client|https://github.com/Synergex/Baconography|
 |TodotxtTouch|[todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) handler/client|https://github.com/hartez/TodotxtTouch.WindowsPhone|
 |Khan Academy|Unofficial Khan Academy browser|https://github.com/joelmartinez/Khan-Academy-for-Windows-Phone|
+|SpeedoPlus|Speedometer app for Windows Phone 7/8|https://github.com/pixeltucker/SpeedoPlus|
 
