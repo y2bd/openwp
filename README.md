@@ -16,4 +16,5 @@ This is a list of open source applications for the Windows Phone mobile platform
 |TodotxtTouch|[todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) handler/client|https://github.com/hartez/TodotxtTouch.WindowsPhone|
 |Khan Academy|Unofficial Khan Academy browser|https://github.com/joelmartinez/Khan-Academy-for-Windows-Phone|
 |SpeedoPlus|Speedometer app|https://github.com/pixeltucker/SpeedoPlus|
+|GooNews|Google News Reader|http://goonews.codeplex.com/
 
