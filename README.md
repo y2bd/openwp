@@ -17,5 +17,5 @@ This is a list of open source applications for the Windows Phone mobile platform
 |Khan Academy|Unofficial Khan Academy browser|https://github.com/joelmartinez/Khan-Academy-for-Windows-Phone|
 |SpeedoPlus|Speedometer app|https://github.com/pixeltucker/SpeedoPlus|
 |GooNews|Google News Reader|https://goonews.codeplex.com/|
-|Yamaha AV Controller|Unofficial [Yamaha Network AV Receiever](http://usa.yamaha.com/products/audio-visual/av-receivers-amps/rx/?mode=series) controller|https://yavc.codeplex.com/
-
+|Yamaha AV Controller|Unofficial [Yamaha Network AV Receiever](http://usa.yamaha.com/products/audio-visual/av-receivers-amps/rx/?mode=series) controller|https://yavc.codeplex.com/|
+|Sofa|Journal app|https://github.com/y2bd/sofa|
