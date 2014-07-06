@@ -4,6 +4,7 @@ This is a list of open source applications for the Windows Phone mobile platform
 
 | Name| Description| Source|
 |-----|------------|-------|
+|DogeMuch|Dogecoin wallet for WinPC/Phone 8.1|https://github.com/Zumicts/DogeMuch|
 |Totally Swank|Urban Dictionary client|https://github.com/y2bd/TotallySwankWP|
 |wpnest|Nest Thermostat controller|https://github.com/garyjohnson/wpnest|
 |Beem|Digitally Imported client|https://github.com/dend/beem|
