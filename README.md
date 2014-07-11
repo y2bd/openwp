@@ -22,3 +22,4 @@ This is a list of open source applications for the Windows Phone mobile platform
 |Sofa|Journal app|https://github.com/y2bd/sofa|
 |GDrive|Google Drive client|https://github.com/PedroLamas/GDrive|
 |Follw.it|Follw.it client|https://follwit.codeplex.com/|
+|7-Pass|KeePass password manager|https://github.com/7Pass/7Pass-Remake|
